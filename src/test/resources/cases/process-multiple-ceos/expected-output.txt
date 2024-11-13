@@ -1,0 +1,3 @@
+Analysis started...
+Employee #1 (Joe Doe) is underpaid by 70000.00
+Analysis finished!

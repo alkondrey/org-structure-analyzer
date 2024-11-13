@@ -1,0 +1,10 @@
+Analysis started...
+Employee #125 (Bob Ronstad) is overpaid by 2000.00
+Employee #124 (Martin Chekov) is underpaid by 15000.00
+Employee #305 (Brett Hardleaf) is underpaid by 40400.00
+Employee #307 (John Smith) is overpaid by 15500.00
+Employee #310 (Olivia White) has 1 levels of reporting higher than allowed
+Employee #309 (James Adams) has 1 levels of reporting higher than allowed
+Employee #309 (James Adams) is underpaid by 3000.00
+Employee #311 (Neo Anderson) has 2 levels of reporting higher than allowed
+Analysis finished!
