@@ -1,0 +1,4 @@
+Analysis started...
+Employee #123 (Joe Doe) is overpaid by 35000.00
+Employee #124 (Martin Chekov) is underpaid by 110000.00
+Analysis finished!
